@@ -1,0 +1,23 @@
+prompt, response
+"How should I format/organize my content into a file tree for this assignment?", "src/
+api/
+meals.ts
+components/
+Filters.tsx
+MealCard.tsx
+SearchBar.tsx
+SortControls.tsx
+context/
+ResultsContext.tsx
+pages/
+DetailView.tsx
+GalleryView.tsx
+ListView.tsx
+styles/
+buttons.module.css
+cards.module.css
+layout.module.css
+text.module.css
+types.ts
+App.tsx
+main.tsx"
